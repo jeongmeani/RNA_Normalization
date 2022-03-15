@@ -1,4 +1,5 @@
 #!/usr/bin/Rscript
+# Author : KJM
 library(GenomicRanges)
 library(rtracklayer)
 library(Rsamtools)
